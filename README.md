@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello, I'm Gilberto
 
-<!--
-**gilboss/gilboss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software programer at makingdevs
 
-Here are some ideas to get you started:
+Currently working on ruby 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learning elixir technologies
+
+I like test and debug code
+
+#### Languages programming
+
+![Groovy](https://img.shields.io/badge/Groovy-4298B8.svg?style=flat-square&logo=Apache+Groovy&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?style=flat-square&logo=elixir&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
